@@ -1,12 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import App from './App';
+import Cabecera from './Cabecera';
+import Contenido from './Contenido';
+import Piesito from './Piesito';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+  	<Cabecera />
+	<Contenido />    
+	<Piesito />
   </React.StrictMode>,
   document.getElementById('root')
 );

@@ -1,0 +1,9 @@
+.cabecera{
+	color: 000;
+    text-align: center;
+	-webkit-text-stroke: 1px black;
+	font-family: Garamond, serif;
+    font-weight: bold;
+	text-decoration-line: underline overline;
+	text-decoration-color:  rgb(28, 164, 218) ;
+}

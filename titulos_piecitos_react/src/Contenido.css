@@ -1,0 +1,36 @@
+.Titulito{
+	color: 000;
+    text-align: center;
+	margin-top: 50px;
+	text-decoration-line: underline;
+	text-decoration-color: rgb(255, 136, 0);
+}
+
+.Titulito2{
+	color: 000;
+    text-align: center;
+	margin-top: 30px;
+	text-decoration-line: underline;
+	text-decoration-color: rgb(30, 255, 0);
+}
+
+.Titulito3{
+ 	color: 000;
+    text-align: center;
+	margin-top: 30px;
+	text-decoration-line: underline;
+	text-decoration-color: rgb(255, 0, 0);
+}
+
+.Contenido {
+    text-align: center;
+    color: 000;
+}
+
+.Contenido2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: 000;
+    line-height: 25px;
+}
