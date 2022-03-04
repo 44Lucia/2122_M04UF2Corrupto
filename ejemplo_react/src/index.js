@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+import Menu from './Menu';
 import Titulito from './Titulito';
 import Piesito from './Piesito';
 import reportWebVitals from './reportWebVitals';
@@ -9,6 +10,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
   	<Titulito />
+	<Menu />
     <App />
 	<Piesito />
   </React.StrictMode>,
